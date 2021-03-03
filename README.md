@@ -1,3 +1,32 @@
+## LinkedIn Clone
+
+> A react-redux powered employ-oriented media service application hosted on firebase.
+
+## About the Application
+
+> LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is mainly used for professional networking, and allows job seekers to post their CVs and employers to post jobs.
+
+## Dependencies
+
+- material-ui/core & material-ui/icons
+- react-flip-move
+- react-redux
+
+## Components
+
+- Header (headerOption)
+- Sidebar
+- Post
+- Feed (InsertOption)
+- Login
+- Widget
+
+## Stock
+
+[logo](https://image.flaticon.com/icons/png/512/174/174857.png)
+[login-logo](https://genylabs.io/wp-content/uploads/2019/10/Social-Listening-to-LinkedIn.png)
+[user-sample](https://cutewallpaper.org/21/red-hair-blue-eyes-anime-boy/An-animAcopy-person-with-GREEN-eyes-animAcopy-rAcopyponses-fanpop.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
